@@ -71,19 +71,7 @@
 			<version>2.2</version>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-
-	    <repository>
-	      <id>nexus</id>
-	      <name>Idexcel Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.215.198:8081/repository/jpetstore-release/</url>
-	    </repository>
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.215.198:8081/repository/jpetstore-snapshot/</url>
-	    </snapshotRepository>
-       </distributionManagement> 
+	
 	<build>
 		<finalName>jpetstore</finalName>
 		<plugins>
