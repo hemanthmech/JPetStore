@@ -76,12 +76,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Releases Nexus Repository</name>
-	      <url>http://3.108.41.91:8081/repository/hemanth-release/</url>
+	      <url>http://13.233.215.198:8081/repository/jpetstore-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.108.41.91:8081/repository/hemanth-snapshot/</url>
+	      <url>http://13.233.215.198:8081/repository/jpetstore-snapshot/</url>
 	    </snapshotRepository>
        </distributionManagement> 
 	<build>
